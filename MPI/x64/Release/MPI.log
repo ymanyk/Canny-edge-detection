@@ -1,0 +1,6 @@
+﻿  MPI.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MPI.vcxproj -> C:\Users\User\source\repos\Assignment\x64\Release\MPI.exe
